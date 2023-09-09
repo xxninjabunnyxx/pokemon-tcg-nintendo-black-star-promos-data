@@ -1,0 +1,83 @@
+---
+id: np-19
+name: Whismur
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Colorless
+evolvesTo:
+- Loudred
+attacks:
+- name: Supersonic
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Flip a coin. If heads, the Defending Pokémon is now Confused.
+- name: Pound
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: np
+  name: Nintendo Black Star Promos
+  series: NP
+  printedTotal: 40
+  total: 40
+  legalities:
+    unlimited: Legal
+  ptcgoCode: PR-NP
+  releaseDate: 2003/10/01
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/np/symbol.png
+    logo: https://images.pokemontcg.io/np/logo.png
+number: '19'
+artist: Kagemaru Himeno
+rarity: Promo
+nationalPokedexNumbers:
+- 293
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/np/19.png
+  large: https://images.pokemontcg.io/np/19_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/np-19
+  updatedAt: 2023/09/09
+  prices:
+    holofoil:
+      low: 1.45
+      mid: 2.23
+      high: 3.32
+      market: 2.49
+      directLow: 1.49
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/np-19
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.0
+    lowPrice: 0.79
+    trendPrice: 2.34
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 1.24
+    lowPriceExPlus: 0.9
+    avg1: 2.9
+    avg7: 2.79
+    avg30: 1.51
+    reverseHoloAvg1: 1.49
+    reverseHoloAvg7: 1.11
+    reverseHoloAvg30: 1.43
